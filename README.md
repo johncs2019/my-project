@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Apps Script Development 💯
 
 The Google Apps Script Starker kit supports the new **V8 JavaScript runtime** that powers Chrome and Node.js. You can write code using modern ECMAScript syntax like Arrow functions, Classes, Template Literals, Destructuring and more.
@@ -93,3 +94,7 @@ Contributions and feature requests are welcome. If you are using the Google Apps
 ### :lock: License
 
 [MIT License](https://github.com/labnol/apps-script-starter/blob/master/LICENSE) (c) [Amit Agarwal](https://www.labnol.org/about/)
+=======
+# my-project
+Test Project For Google Apps Script Code
+>>>>>>> 4feb9b85a1a2b3ce9078bf95ae96ae656ae2cfef
